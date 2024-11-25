@@ -10,3 +10,10 @@ Key Features:
 
     PowerBI Integration: Harnessing the analytical prowess of PowerBI, our Business Intelligence (BI) capabilities reach new heights. Visualize, analyze, and gain insights from our enriched data warehouse effortlessly, enabling informed decision-making and strategic planning.
 
+
+ER Diagram
+![image](https://github.com/user-attachments/assets/9b85b7a0-be17-486e-8765-b47c1c41924b)
+
+Insights
+![image](https://github.com/user-attachments/assets/88889dce-5a6b-4c15-a6ed-f60ebd1a5ea6)
+
